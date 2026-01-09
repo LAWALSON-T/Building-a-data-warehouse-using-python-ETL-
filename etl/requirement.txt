@@ -1,0 +1,4 @@
+pandas
+dask
+mysql-connector-python
+python-dotenv
